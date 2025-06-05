@@ -1,0 +1,88 @@
+/* src/components/FloatingSocialButton.css */
+
+.floating-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.main-button {
+  background-color: rgba(255, 255, 255, 0.1);
+  /* ← Fondo semi-transparente */
+  backdrop-filter: blur(6px);
+  /* ← Efecto de difuminado */
+  color: #cf9393;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  /* Borde leve blanco */
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.main-button:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
+}
+
+.icon-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  animation: fadeIn 0.3s ease;
+}
+
+.social-icon {
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: #333;
+  text-decoration: none;
+  transition: transform 0.2s ease;
+  font-size: 20px;
+}
+
+.social-icon:hover {
+  transform: scale(1.2);
+}
+
+.social-icon.email {
+  color: #ea4335;
+}
+
+.social-icon.whatsapp {
+  color: #25d366;
+}
+
+.social-icon.facebook {
+  color: #1877f2;
+}
+
+.social-icon.instagram {
+  color: #e4405f;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

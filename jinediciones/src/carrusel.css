@@ -1,0 +1,7 @@
+/* en tu CSS (ej: Carrusel.css) */
+.carousel img {
+  object-fit: contain;
+  width: 100%;
+  height: 80vh;
+  border-radius: 7dvh;
+}
