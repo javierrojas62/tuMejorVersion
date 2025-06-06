@@ -6,6 +6,7 @@ import Carrusel from './carrusel';
 import logo from './assets/logo.png';
 import FloatingSocialButton from "./components/FloatingSocialButton";
 import { FaWhatsapp } from "react-icons/fa";
+import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
