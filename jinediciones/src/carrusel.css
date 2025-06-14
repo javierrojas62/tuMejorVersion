@@ -1,7 +1,17 @@
-/* en tu CSS (ej: Carrusel.css) */
+/* Estilo general (escritorio/tablet) */
 .carousel img {
   object-fit: contain;
   width: 100%;
   height: 80vh;
   border-radius: 7dvh;
 }
+
+@media (max-width: 768px) {
+  .carousel img {
+    height: auto;
+    max-height: 60vh;
+    object-fit: contain;
+    border-radius: 3dvh;
+  }
+}
+

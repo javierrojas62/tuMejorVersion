@@ -117,7 +117,7 @@ function App() {
           <div className="text-center mt-3">
             <p>¡Hola! Soy <code>Ivi Janet</code>, y mi pasión es potenciar tu camino hacia el éxito académico y creativo. Como <strong>Profesora de Psicología y Ciencias de la Educación</strong>, mi enfoque es brindarte las herramientas y el acompañamiento personalizado que necesitas para alcanzar tus metas.</p>
             <p>Ofrezco una gama completa de servicios pensados para vos:</p>
-            <ul className='text-'>
+            <ul className='text- index-desc'>
               <li><strong>Asistencia Académica Personalizada</strong>: ¿Estás trabajando en tu tesis o proyectos de investigación? Te guío en cada etapa, desde la conceptualización hasta la redacción final, asegurando que tu trabajo sea sólido y brillante.</li>
               <li><strong>Coaching de Vida</strong>: Juntos exploraremos tus objetivos y desafíos, diseñando estrategias prácticas para que desarrolles tu máximo potencial en todas las áreas de tu vida.</li>
               <li><strong>Edición y Armado de Libros</strong>: Como Editora Literaria y Escritora, sé lo importante que es dar vida a tus ideas. Te acompaño en el proceso de edición, maquetación y preparación de tu obra para que tu voz sea escuchada.</li>

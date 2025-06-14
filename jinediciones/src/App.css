@@ -36,6 +36,23 @@ main{
 .App-link {
   color: #61dafb;
 }
+.index-desc {
+  list-style: none; /* opcional: saca los puntos */
+  padding: 0;
+  margin: 0;
+}
+
+.index-desc li {
+  border: 1px solid #e73600;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px; /* opcional: bordes redondeados */
+  background-color: #fff; /* opcional: mejora contraste */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  background-color: #fefefe;
+
+
+}
 
 @keyframes App-logo-spin {
   from {
@@ -45,3 +62,4 @@ main{
     transform: rotate(360deg);
   }
 }
+
