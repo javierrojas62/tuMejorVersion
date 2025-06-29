@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/tuMejorVersion/static/css/main.271be3d1.chunk.css",
-    "main.js": "/tuMejorVersion/static/js/main.363821ea.chunk.js",
-    "main.js.map": "/tuMejorVersion/static/js/main.363821ea.chunk.js.map",
+    "main.js": "/tuMejorVersion/static/js/main.53293641.chunk.js",
+    "main.js.map": "/tuMejorVersion/static/js/main.53293641.chunk.js.map",
     "runtime-main.js": "/tuMejorVersion/static/js/runtime-main.d935ae7a.js",
     "runtime-main.js.map": "/tuMejorVersion/static/js/runtime-main.d935ae7a.js.map",
     "static/css/2.de1632da.chunk.css": "/tuMejorVersion/static/css/2.de1632da.chunk.css",
-    "static/js/2.df662fb2.chunk.js": "/tuMejorVersion/static/js/2.df662fb2.chunk.js",
-    "static/js/2.df662fb2.chunk.js.map": "/tuMejorVersion/static/js/2.df662fb2.chunk.js.map",
+    "static/js/2.f9c82183.chunk.js": "/tuMejorVersion/static/js/2.f9c82183.chunk.js",
+    "static/js/2.f9c82183.chunk.js.map": "/tuMejorVersion/static/js/2.f9c82183.chunk.js.map",
     "static/js/3.4267c53f.chunk.js": "/tuMejorVersion/static/js/3.4267c53f.chunk.js",
     "static/js/3.4267c53f.chunk.js.map": "/tuMejorVersion/static/js/3.4267c53f.chunk.js.map",
     "index.html": "/tuMejorVersion/index.html",
-    "precache-manifest.2f82342fe4bd65fc899f4dacb0821dbc.js": "/tuMejorVersion/precache-manifest.2f82342fe4bd65fc899f4dacb0821dbc.js",
+    "precache-manifest.ae5da8cc1b6ec99b4ca06f3896cf2a53.js": "/tuMejorVersion/precache-manifest.ae5da8cc1b6ec99b4ca06f3896cf2a53.js",
     "service-worker.js": "/tuMejorVersion/service-worker.js",
     "static/css/2.de1632da.chunk.css.map": "/tuMejorVersion/static/css/2.de1632da.chunk.css.map",
     "static/css/main.271be3d1.chunk.css.map": "/tuMejorVersion/static/css/main.271be3d1.chunk.css.map",
-    "static/js/2.df662fb2.chunk.js.LICENSE.txt": "/tuMejorVersion/static/js/2.df662fb2.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/tuMejorVersion/static/media/1.987a1f5a.png",
-    "static/media/2.png": "/tuMejorVersion/static/media/2.83bdb515.png",
-    "static/media/3.png": "/tuMejorVersion/static/media/3.702c4ae2.png",
+    "static/js/2.f9c82183.chunk.js.LICENSE.txt": "/tuMejorVersion/static/js/2.f9c82183.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/tuMejorVersion/static/media/1.617b1000.png",
+    "static/media/2.png": "/tuMejorVersion/static/media/2.43dddc84.png",
+    "static/media/3.png": "/tuMejorVersion/static/media/3.ebbd83d8.png",
     "static/media/4.png": "/tuMejorVersion/static/media/4.dc42b39b.png",
     "static/media/logo.png": "/tuMejorVersion/static/media/logo.e85af4b8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d935ae7a.js",
     "static/css/2.de1632da.chunk.css",
-    "static/js/2.df662fb2.chunk.js",
+    "static/js/2.f9c82183.chunk.js",
     "static/css/main.271be3d1.chunk.css",
-    "static/js/main.363821ea.chunk.js"
+    "static/js/main.53293641.chunk.js"
   ]
 }
