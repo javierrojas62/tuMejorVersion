@@ -3,7 +3,6 @@ import './App.css';
 import Header from './header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carrusel from './carrusel';
-import logo from './assets/logo.png';
 import FloatingSocialButton from "./components/FloatingSocialButton";
 import { FaWhatsapp } from "react-icons/fa";
 
